@@ -11,6 +11,8 @@ public class newOpportunityController
     // The next four methods return one of each of the four member
     // variables. If this is the first time the method is called,
     // it creates an empty record for the variable.
+    // test comment
+    
     public Account getAccount() 
     {
         if(account == null) account = new Account();
