@@ -3,7 +3,7 @@ public class newOpportunityController
     // These four member variables maintain the state of the wizard.
     // When users enter data into the wizard, their input is stored
     // in these variables.
-    // test2 comment2 hghghtytyt
+    // test2 comment hghghty
     Account account;
     Contact contact;
     Opportunity opportunity;
